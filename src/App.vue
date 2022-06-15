@@ -50,7 +50,7 @@ function convert(number: number | string, from: number, to: number) {
 </script>
 
 <template>
-  <h1>F**king radix calculator</h1>
+  <h1>Radix Calculator</h1>
   <div mx-auto p8 w-400px b-6 b="dashed gray-300" rounded-xl flex="~ col">
     <div
       flex
